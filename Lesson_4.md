@@ -94,7 +94,16 @@
 
 ## AVL - дерево
 
-// TODO
+// TODO  
+
+Ну нужно ничего делать, всё уже написано
+
+Самая лучшая статья с красивыми рисуночками 
+
+<!-- [https://habr.com/ru/post/150732/](https://habr.com/ru/post/150732/){:target="_blank"} -->
+
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ## Красно-чёрное дерево
 
